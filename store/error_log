@@ -1,0 +1,41 @@
+
+[29-Feb-2024 23:57:12 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'etasrvdl_mwb.invoice' doesn't exist in /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php:11
+Stack trace:
+#0 /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php(11): mysqli->query('SELECT * FROM i...')
+#1 {main}
+  thrown in /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php on line 11
+[01-Mar-2024 00:03:36 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'etasrvdl_mwb.invoice' doesn't exist in /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php:11
+Stack trace:
+#0 /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php(11): mysqli->query('SELECT * FROM i...')
+#1 {main}
+  thrown in /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php on line 11
+[01-Mar-2024 00:03:44 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'etasrvdl_mwb.invoice' doesn't exist in /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php:11
+Stack trace:
+#0 /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php(11): mysqli->query('SELECT * FROM i...')
+#1 {main}
+  thrown in /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php on line 11
+[01-Mar-2024 00:04:00 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'etasrvdl_mwb.invoice' doesn't exist in /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php:11
+Stack trace:
+#0 /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php(11): mysqli->query('SELECT * FROM i...')
+#1 {main}
+  thrown in /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php on line 11
+[01-Mar-2024 00:04:59 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'etasrvdl_mwb.invoice' doesn't exist in /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php:11
+Stack trace:
+#0 /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php(11): mysqli->query('SELECT * FROM i...')
+#1 {main}
+  thrown in /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php on line 11
+[01-Mar-2024 00:06:14 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'etasrvdl_mwb.invoice' doesn't exist in /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php:11
+Stack trace:
+#0 /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php(11): mysqli->query('SELECT * FROM i...')
+#1 {main}
+  thrown in /home1/etasrvdl/public_html/mobile/store/add_purchase_managment.php on line 11
+[01-Mar-2024 00:15:49 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'discount_price' in 'field list' in /home1/etasrvdl/public_html/mobile/store/products_action.php:81
+Stack trace:
+#0 /home1/etasrvdl/public_html/mobile/store/products_action.php(81): mysqli->query('INSERT INTO `pr...')
+#1 {main}
+  thrown in /home1/etasrvdl/public_html/mobile/store/products_action.php on line 81
+[01-Mar-2024 00:17:57 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'discount_price' in 'field list' in /home1/etasrvdl/public_html/mobile/store/products_action.php:81
+Stack trace:
+#0 /home1/etasrvdl/public_html/mobile/store/products_action.php(81): mysqli->query('INSERT INTO `pr...')
+#1 {main}
+  thrown in /home1/etasrvdl/public_html/mobile/store/products_action.php on line 81
